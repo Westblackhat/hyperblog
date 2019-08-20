@@ -1,0 +1,2 @@
+Esta e suna historia pequeña con informacion temporal
+donde estoy aprendiendo git y github
